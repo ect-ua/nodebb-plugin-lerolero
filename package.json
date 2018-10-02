@@ -1,7 +1,7 @@
 {
-  "name": "nodebb-plugin-fake-alexa-ectua",
-  "version": "1.1.1",
-  "description": "Fake alexa",
+  "name": "nodebb-plugin-lerolero",
+  "version": "1.0.0",
+  "description": "Lerolero for NodeBB",
   "main": "library.js",
   "repository": {
     "type": "git",
@@ -10,19 +10,23 @@
   "keywords": [
     "nodebb",
     "plugin",
-    "tudo",
-    "preso",
+    "lerolero",
     "ect",
     "ua",
     "ect-ua"
   ],
   "author": {
-    "name": "David Lopes",
-    "email": "andrelopes@davidsilva.pt"
+    "name": "David Silva",
+    "email": "davidmsilva@ua.pt"
   },
+  "contributors": [{
+    "name": "Zezadas",
+    "email": "zezadas@sefod.eu",
+    "website": "https://peidei.me"
+  }],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ect-ua/nodebb-plugin-fake-alexa-ectua/issues"
+    "url": "https://github.com/ect-ua/nodebb-plugin-lerolero/issues"
   },
   "readme": "",
   "readmeFilename": "README.md",

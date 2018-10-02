@@ -1,8 +1,8 @@
 {
-	"id": "nodebb-plugin-fake-alexa-ectua",
-	"name": "Fake Alexa",
-	"description": "Fake Alexa",
-	"url": "https://github.com/ect-ua/nodebb-plugin-fake-alexa-ectua",
+	"id": "nodebb-plugin-lerolero",
+	"name": "Lerolero",
+	"description": "Lerolero for NodeBB",
+	"url": "https://github.com/ect-ua/nodebb-plugin-lerolero",
 	"library": "./library.js",
 	"hooks": [
 		{ "hook": "action:notification.pushed", "method": "invokeBot" }
