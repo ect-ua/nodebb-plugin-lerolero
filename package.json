@@ -1,0 +1,36 @@
+{
+  "name": "nodebb-plugin-fake-alexa-ectua",
+  "version": "1.1.1",
+  "description": "Fake alexa",
+  "main": "library.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ect-ua/nodebb-plugin-fake-alexa-ectua"
+  },
+  "keywords": [
+    "nodebb",
+    "plugin",
+    "tudo",
+    "preso",
+    "ect",
+    "ua",
+    "ect-ua"
+  ],
+  "author": {
+    "name": "David Lopes",
+    "email": "andrelopes@davidsilva.pt"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ect-ua/nodebb-plugin-fake-alexa-ectua/issues"
+  },
+  "readme": "",
+  "readmeFilename": "README.md",
+  "nbbpm": {
+    "compatibility": "^1.0.1",
+    "index": false
+  },
+  "dependencies": {
+    "lerolero": "0.0.1"
+  }
+}

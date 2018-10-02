@@ -1,0 +1,10 @@
+{
+	"id": "nodebb-plugin-fake-alexa-ectua",
+	"name": "Fake Alexa",
+	"description": "Fake Alexa",
+	"url": "https://github.com/ect-ua/nodebb-plugin-fake-alexa-ectua",
+	"library": "./library.js",
+	"hooks": [
+		{ "hook": "action:notification.pushed", "method": "invokeBot" }
+	]
+}
